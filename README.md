@@ -1,1 +1,2 @@
-This is the project readme file 
+This is the project readme file .
+I am showing some step . 
